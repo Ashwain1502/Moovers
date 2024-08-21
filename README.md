@@ -1,5 +1,5 @@
 # Moovers
-A website to watch movies developed using Reactjs and IMDB API. 
+A website to watch movies developed using Reactjs, IMDB API and vidsrc database. 
 
 ## Working on
 Fronted design and API integration.
